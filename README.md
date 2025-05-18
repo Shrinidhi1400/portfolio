@@ -2,9 +2,12 @@
 
 ### Education
 
-M.Sc., Com0utational Sciences in Engineering, TU Braunschweig  
-B.E., Mechanical Engineering, Vidyavadhaka College of Engineering
+Master of Science | Computational Sciences in Engineering (2022-Present)  
+Technische Universitat Braunschweig  
+
+Bachelor of Engineering | Mechanical Engineering (2018-2022)  
+Visvesvaraya Technological University
 
 ## Experience
-- Hilfswissenschaftler - IFL
-- 
+- Hilfswissenschaftler (June 2024 – Present)
+-     sdsdsd
