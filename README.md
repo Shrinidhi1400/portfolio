@@ -132,7 +132,7 @@ Aug. 2021 | Bengaluru, India
 ## 📫 Contact
 
 **Email**: [shrinidhi1400@gmail.com](shrinidhi1400@gmail.com)  
-**LinkedIn**: [[Shrinidhi H M](https://www.linkedin.com/in/shrinidhihm/)]  
+**LinkedIn**: [Shrinidhi H M](https://www.linkedin.com/in/shrinidhihm/)  
 #**GitHub**: [Your GitHub username or link]  
 #**Website**: [Your portfolio website URL]
 
