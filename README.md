@@ -120,10 +120,10 @@ Aug. 2021 | Bengaluru, India
 
 ## 📫 Contact
 
-**Email**: [Your professional email]  
-**LinkedIn**: [Your LinkedIn URL]  
-**GitHub**: [Your GitHub username or link]  
-**Website**: [Your portfolio website URL]
+**Email**: [shrinidhi1400@gmail.com]  
+**LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/shrinidhihm/)]  
+#**GitHub**: [Your GitHub username or link]  
+#**Website**: [Your portfolio website URL]
 
 ---
 
