@@ -37,8 +37,19 @@ Aug. 2021 | Bengaluru, India
 
 ## 🛠 PROJECTS
 
+### Aerodynamic Design of a Fowler Flap for a Hybrid Laminar Flow Control Airfoil  
+**Studienarbeit | Technische Universität Braunschweig | 2024–2025**
+
+- Optimized a Fowler flap for a Hybrid Laminar Flow Control (HLFC) airfoil to maximize lift during takeoff (15° flap deflection) and landing (30° flap deflection).
+- Utilized the PyAeroSweep framework combining Fidelity Pointwise (mesh generation) and SU2 (steady RANS CFD with k-ω SST turbulence model).
+- Conducted mesh and extensive parameter sensitivity studies with approximately 1000 CFD simulations to analyze flap design effects on lift coefficient (C<sub>L</sub>).
+- Achieved lift improvements of 4.14% at 15° and 4.56% at 30° flap deflection compared to baseline. 
+- Used flow visualizations to confirm improved flow control and reduced instabilities over the flap.
+- Provided key insights for high-lift device design on HLFC airfoils, establishing a foundation for future advanced CFD automation.
+- Tools: SU2, Fidelity Pointwise, PyAeroSweep, ParaView, MS Excel, LaTeX, Python
+
 ### Design and Fabrication of Quad-Plane for All-Terrain Applications  
-**Bachelor Thesis | 2021–2022 | India**  
+**Bachelor Thesis | Visvesvaraya Technological University | 2021–2022 **  
 - Led the design and fabrication of a fixed-wing eVTOL UAV with a 1.2 m wingspan and 3 kg payload.  
 - Tailored for all-terrain medical delivery using ducted propellers and precise flight control.  
 - Tools: SolidWorks, XFLR5, Ansys, FEA, CFD.
