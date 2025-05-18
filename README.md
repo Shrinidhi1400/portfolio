@@ -131,7 +131,7 @@ Aug. 2021 | Bengaluru, India
 
 ## 📫 Contact
 
-**Email**: [shrinidhi1400@gmail.com](mailto:shrinidhi1400@gmail.com)  
+**Email**: [shrinidhi1400@gmail.com](mailto:shrinidhi1400@gmail.com) / [s.holenarsipura@tu-braunschweig.de](mailto:s.holenarsipura@tu-braunschweig.de)    
 **LinkedIn**: [Shrinidhi H M](https://www.linkedin.com/in/shrinidhihm/)  
 #**GitHub**: [Your GitHub username or link]  
 #**Website**: [Your portfolio website URL]
